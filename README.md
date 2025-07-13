@@ -57,7 +57,7 @@ cd custom_nodes
 
 Afterwards clone the repo:
 ```
-git clone https://github.com/X/ComfyUI_LLM_Hub
+git clone https://github.com/claptrap0/ComfyUI_LLM_Hub
 ```
 
 Go inside the node folder:

@@ -25,11 +25,11 @@ dependencies = ["transformers", "torch", "accelerate", "bitsandbytes", "llama-cp
 [project.urls]
 Repository = "https://github.com/claptrap0/ComfyUI_LLM_Hub"
 #  Used by Comfy Registry https://registry.comfy.org
-Documentation = "https://github.com/claptrap0/ComfyUI_LLM_Hub/wiki"
+Documentation = "https://github.com/claptrap0/ComfyUI_LLM_Hub?tab=readme-ov-file#-llm-hub"
 "Bug Tracker" = "https://github.com/claptrap0/ComfyUI_LLM_Hub/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "claptrap"
 DisplayName = "ComfyUI_LLM_Hub"
 Icon = ""
 includes = [] 
